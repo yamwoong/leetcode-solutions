@@ -24,6 +24,10 @@
 | 4 | 1378  | SQL      | [Link](Oracle/easy/1378-Replace-Employee.sql)  | 1 |
 | 5 | 1683  | SQL      | [Link](Oracle/easy/1683-Invalid-Tweets.sql)    | 1 |
 | 6 | 1757  | SQL      | [Link](Oracle/easy/1757-Recyclable.sql)        | 1 |
+| 7 | 1068  | SQL      | [Link](Oracle/easy/1068-Product.sql)           | 2 |
+| 8 | 1581  | SQL      | [Link](Oracle/easy/1581-Customer-Who.sql)      | 2 |
+
+
 
 
 
