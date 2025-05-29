@@ -2,9 +2,10 @@
 
 ## Easy(JavaScript)
 
-| #   | Title   | Language   | Solution                                |     |
-| --- | ------- | ---------- | --------------------------------------- | --- |
-| 1   | Two Sum | JavaScript | [Link](JavaScript/easy/0001-two-sum.js) | 1   |
+| #   | Title | Language   | Solution                                           |     |
+| --- | ----- | ---------- | -------------------------------------------------- | --- |
+| 1   | 0001  | JavaScript | [Link](JavaScript/easy/0001-two-sum.js)            | 1   |
+| 2   | 0217  | JavaScript | [Link](JavaScript/easy/0217-Contains-Duplicate.js) | 1   |
 
 ## Medium(JavaScript)
 
