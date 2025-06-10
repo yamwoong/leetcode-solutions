@@ -7,6 +7,7 @@
 | 1   | 0001  | JavaScript | [Link](JavaScript/easy/0001-two-sum.js)                         | 1   |
 | 2   | 0217  | JavaScript | [Link](JavaScript/easy/0217-Contains-Duplicate.js)              | 2   |
 | 3   | 0121  | JavaScript | [Link](JavaScript/easy/0121-Best-Time-to-Buy-and-Sell-Stock.js) | 3   |
+| 4   | 0242  | JavaScript | [Link](JavaScript/easy/0242-Valid-Anagram.js)                   | 3   |
 
 ## Medium(JavaScript)
 
