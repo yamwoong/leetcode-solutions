@@ -11,6 +11,7 @@
 | 5   | 0088  | JavaScript | [Link](JavaScript/easy/0088-Merge-Sorted-Array.js)              |     |
 | 6   | 0125  | JavaScript | [Link](JavaScript/easy/0125-Merge-Sorted-Array.js)              |     |
 | 7   | 0014  | JavaScript | [Link](JavaScript/easy/0014-Longest-Common-Prefix.js)           |     |
+| 8   | 0283  | JavaScript | [Link](JavaScript/easy/0283-Move-Zeroes.js)                     |     |
 
 ## Medium(JavaScript)
 
