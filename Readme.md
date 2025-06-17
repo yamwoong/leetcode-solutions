@@ -2,16 +2,17 @@
 
 ## Easy(JavaScript)
 
-| #   | Title | Language   | Solution                                                        |     |
-| --- | ----- | ---------- | --------------------------------------------------------------- | --- |
-| 1   | 0001  | JavaScript | [Link](JavaScript/easy/0001-two-sum.js)                         |     |
-| 2   | 0217  | JavaScript | [Link](JavaScript/easy/0217-Contains-Duplicate.js)              |     |
-| 3   | 0121  | JavaScript | [Link](JavaScript/easy/0121-Best-Time-to-Buy-and-Sell-Stock.js) |     |
-| 4   | 0242  | JavaScript | [Link](JavaScript/easy/0242-Valid-Anagram.js)                   |     |
-| 5   | 0088  | JavaScript | [Link](JavaScript/easy/0088-Merge-Sorted-Array.js)              |     |
-| 6   | 0125  | JavaScript | [Link](JavaScript/easy/0125-Merge-Sorted-Array.js)              |     |
-| 7   | 0014  | JavaScript | [Link](JavaScript/easy/0014-Longest-Common-Prefix.js)           |     |
-| 8   | 0283  | JavaScript | [Link](JavaScript/easy/0283-Move-Zeroes.js)                     |     |
+| #   | Title | Language   | Solution                                                            |     |
+| --- | ----- | ---------- | ------------------------------------------------------------------- | --- |
+| 1   | 0001  | JavaScript | [Link](JavaScript/easy/0001-two-sum.js)                             |     |
+| 2   | 0217  | JavaScript | [Link](JavaScript/easy/0217-Contains-Duplicate.js)                  |     |
+| 3   | 0121  | JavaScript | [Link](JavaScript/easy/0121-Best-Time-to-Buy-and-Sell-Stock.js)     |     |
+| 4   | 0242  | JavaScript | [Link](JavaScript/easy/0242-Valid-Anagram.js)                       |     |
+| 5   | 0088  | JavaScript | [Link](JavaScript/easy/0088-Merge-Sorted-Array.js)                  |     |
+| 6   | 0125  | JavaScript | [Link](JavaScript/easy/0125-Merge-Sorted-Array.js)                  |     |
+| 7   | 0014  | JavaScript | [Link](JavaScript/easy/0014-Longest-Common-Prefix.js)               |     |
+| 8   | 0283  | JavaScript | [Link](JavaScript/easy/0283-Move-Zeroes.js)                         |     |
+| 9   | 0026  | JavaScript | [Link](JavaScript/easy/0026-Remove-Duplicates-from-Sorted-Array.js) |     |
 
 ## Medium(JavaScript)
 
