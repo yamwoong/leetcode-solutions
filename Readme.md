@@ -13,6 +13,7 @@
 | 7   | 0014  | JavaScript | [Link](JavaScript/easy/0014-Longest-Common-Prefix.js)               |     |
 | 8   | 0283  | JavaScript | [Link](JavaScript/easy/0283-Move-Zeroes.js)                         |     |
 | 9   | 0026  | JavaScript | [Link](JavaScript/easy/0026-Remove-Duplicates-from-Sorted-Array.js) |     |
+| 10  | 0344  | JavaScript | [Link](JavaScript/easy/0344-Reverse-String.js)                      |     |
 
 ## Medium(JavaScript)
 
